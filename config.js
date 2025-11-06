@@ -15,7 +15,7 @@ module.exports = {
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     CHATBOT: getConfig("CHATBOT") || "off", // on/off chat bot 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "KHAN-MD",  // Bot's display name
-    MODE: getConfig("MODE") || process.env.MODE || "private",        // Bot mode: public/private/group/inbox
+    MODE: getConfig("MODE") || process.env.MODE || "public",        // Bot mode: public/private/group/inbox
     REPO: process.env.REPO || "https://github.com/Shan-droid770/KHAN-MD",  // Bot's GitHub repo
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
