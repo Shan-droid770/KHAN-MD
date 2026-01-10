@@ -1,11 +1,11 @@
 
 module.exports = {
-  SESSION_ID: "",  // add session Id 
+  SESSION_ID: "IK~H4sIAAAAAAAAA5VU246jRhD9lahfsdZcjAFLIwUDY2PwDV9xtA9taHCbOzTYzMoveUsUKdpRniLNF+QP8lXzCREez8w+JKsJEqqmu6k6VadOfQFxggtkoBr0voA0xxUkqFmSOkWgB/ql56EctIALCQQ9MFYnlKYLcu3ND1Oen2/7m3BYrrYbu9juo7bTH06m0w1W42HnDlxaIC33IXa+47BOfH/Wtx2XDw47k16m0ULYWg5FS5OIPASndkfvDjhrF6v0Hbg0HiHOcexr6QFFKIehgeoZxPnH4KMB7243413bZN3jCOWavlDs4NRd1ltpLhRyd2BKgozInqM/Bp9Ix/yIWOsBWbNFxNjSAmcirChjTNoFk8iH5dnhg65bzcUX+AX2Y+TqLooJJvWH655p08DYj9YHc2ae9bh7b1ZFwobEwJo/puoznRJbR2HmDYuPAbcyOhjiYGrEJjeNAs+nzlBY8h0D31MLiT6xbQuuSmssRfS3wGf5a68E/6fuXXOSDax8WUJr1A5Zger2RwIRTCPO7KrKpgyM1huP6rTXH4R/YmVsSVzinjcsZ+g+NZvNGZ3b7KAwHAazylYnTLbKNgHuvMOHpMy/h1KtfAdupfl54KEHuzrsdhiprFhzFZ6h7U7UM49GlNRfBlPufnJKu3trL1VDhx8pG7V84CktKTRxpVDTM443vKAtykL1764ZBajWXdBjLi2QIx8XJIcEJ3Gzx9MtAN1qgZwckWt1gVrv1v6iXZQZTpPZVok6emztt+Y2OsmHsRicvL2kMrt0l4h3oAXSPHFQUSB3iAuS5PUYFQX0UQF6P31ugRidyQtvTTSR4VrAw3lBVnGZhgl0X1l9O4WOk5QxWdSxozQLlIMe/b6NCMGxXzSFLGOYOwdcIeUASQF6HgwL9JYiypELeiQv0ZtslcRtKj+aaEtWWY5BC0RXRrALekDqCGxHlEReEHsi92Px6dR4hWn6KUYEtEAMm8vg+enr389Pjz8/Pz3+crO///D89PWv56fHX5+fHv+4vdeDm/3zZn9rLGiB8BqQoSWJ4RiJl4SOKHWboM3B5S3XBpqLCMRhAXpAMSpWzHRNM+AUi8Vg0F/5suLL4L02r132QmP33jY9ONP3ZnDSHrS1MmGGyqI/0VKfzFXRqv1qNdsFc+Og3/2LE9ADEywHKm07xmgSzuqtjgcjQV1S43Y0LywGsrZiwU5XWVsd14jiEMtbd358UBgL9vmpbhzL4z7PY7gUXNdeKdmy751XyvyuieaiCjvo22DVJhBV2mBFPk55VVnzZ7E+kEST7aCfjZaLGUM5+/nIJkWVxGLMUXI9Xw/Wuz63GXV2CTM6covIT2oz0lZRZjplrtvKrf+v+gtvcw9fW7Nhvfn0MLqOkRu9/0HKK+CmS+lL65t/bwPpP0TdR4eNwrHHelDz4/74fD8/utYp8JeWYZsrua05icmo7E5TkgW4XD63QBpC4iV5BHqgiPYQtECelE3L67GXfCeSIvu67PuLJt0QFkR+l9ESR6ggMEpBjxG6Ii0yjMS93JrlSTqExQH0ALsWhGzVaKKW03RBIHmVJZCbZxocwOUfhRS4NLIHAAA=",  // add session Id 
   
-  OWNER_NUMBER: "923427582273", // add owner number 
+  OWNER_NUMBER: "94724898578", // add owner number 
   
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
+  PREFIX: ",", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Asia/Karachi" // put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "Asia/Colombo" // put your country timeZone....leave blank if u don't know.
 };
 
